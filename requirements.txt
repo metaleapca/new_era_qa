@@ -1,0 +1,6 @@
+langchain[llm]
+openai==0.28.1
+pypdf
+qdrant-client
+tiktoken
+flask

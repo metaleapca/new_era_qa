@@ -1,3 +1,5 @@
 langchain
 openai
 pandas
+chromadb
+tiktoken

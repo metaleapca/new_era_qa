@@ -3,3 +3,4 @@ openai
 pandas
 chromadb
 tiktoken
+transformers
